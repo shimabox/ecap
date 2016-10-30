@@ -1,0 +1,5 @@
+URL,ファイル名(拡張子無し),出力タイプ(pdf or img)
+https://www.google.co.jp/,google,pdf
+http://www.yahoo.co.jp/,yahoo,img
+https://www.google.co.jp/,google,img
+https://ja.wikipedia.org/wiki/日本語ドメイン,日本語ドメイン,pdf
