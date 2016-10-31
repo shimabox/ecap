@@ -6,7 +6,7 @@
 - CSVファイルに書かれている値 (<code>URL,ファイル名(拡張子無し),出力タイプ(pdf or img)</code>) を見て、画面キャプチャします
 - 画面キャプチャは **pdf** or **jpg** で出力します
 - [wkhtmltopdf](http://wkhtmltopdf.org/index.html "wkhtmltopdf") に依存します
-- See also [wkhtmltopdf / wkhtmltoimageを使って画面キャプチャするバッチスクリプトを書いた | Shimabox Blog](https://blog.shimabox.net/2016/10/31/wkhtmltopdf-wkhtmltoimag-batch/ "wkhtmltopdf / wkhtmltoimageを使って画面キャプチャするバッチスクリプトを書いた | Shimabox Blog")
+- See also [wkhtmltopdf / wkhtmltoimageを使って画面キャプチャするバッチスクリプトを書いた | Shimabox Blog](https://blog.shimabox.net/2016/10/31/wkhtmltopdf-wkhtmltoimage-batch/ "wkhtmltopdf / wkhtmltoimageを使って画面キャプチャするバッチスクリプトを書いた | Shimabox Blog")
 
 ## このキャプチャツールを使う前の設定
 
