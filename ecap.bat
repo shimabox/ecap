@@ -20,7 +20,7 @@ for /f "skip=1 tokens=1,2,3* delims=," %%i in (%TARGET%url.csv) do (
 
   echo ----- [start] output %%k %%i -----
 
-  set valid=fase
+  set valid=false
   if %%k == pdf set valid=true
   if %%k == img set valid=true
   if !valid! == true (
